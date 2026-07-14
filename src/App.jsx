@@ -3,8 +3,10 @@
 // import viteLogo from './assets/vite.svg'
 // import heroImg from './assets/hero.png'
 // import './App.css'
+import AddingStyles from './AddingStyle'
 import MyButton from './MyButton'
 import Table from './Table'
+import './MyStyles.css'
 
 function App() {
   
@@ -12,6 +14,7 @@ function App() {
     <>
       <MyButton />
       <Table />
+      <AddingStyles/>
     </>
   )
 }
