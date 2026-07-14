@@ -1,11 +1,11 @@
-import ConditionalRendering from './ConditionalRendering'
+import RenderingList from './RenderingList'
 import './MyStyles.css'
 
 function App() {
   
   return (
     <>
-      <ConditionalRendering/>
+      <RenderingList/>
     </>
   )
 }
