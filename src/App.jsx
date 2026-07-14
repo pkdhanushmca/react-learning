@@ -1,11 +1,11 @@
-import DisplayData from './DisplayingData'
+import ConditionalRendering from './ConditionalRendering'
 import './MyStyles.css'
 
 function App() {
   
   return (
     <>
-      <DisplayData/>
+      <ConditionalRendering/>
     </>
   )
 }
